@@ -1,0 +1,1 @@
+An AXI4-Lite slave interface exposing four 32-bit memory-mapped registers at byte addresses 0x00, 0x04, 0x08, and 0x0C. AXI4-Lite is ARM's lightweight bus protocol used everywhere in FPGA SoC design — connecting processor cores to peripherals, sensors, and custom IP blocks.
